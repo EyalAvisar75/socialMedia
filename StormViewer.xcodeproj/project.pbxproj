@@ -15,6 +15,23 @@
 		1805E2E224BC3E7300D1912F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1805E2E024BC3E7300D1912F /* LaunchScreen.storyboard */; };
 		1805E2ED24BC3E7300D1912F /* StormViewerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1805E2EC24BC3E7300D1912F /* StormViewerTests.swift */; };
 		1805E2F824BC3E7300D1912F /* StormViewerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1805E2F724BC3E7300D1912F /* StormViewerUITests.swift */; };
+		1805E31624BC3E9F00D1912F /* storm13.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E30624BC3E9F00D1912F /* storm13.jpeg */; };
+		1805E31724BC3E9F00D1912F /* storm1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E30724BC3E9F00D1912F /* storm1.jpeg */; };
+		1805E31824BC3E9F00D1912F /* storm12.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E30824BC3E9F00D1912F /* storm12.jpeg */; };
+		1805E31924BC3E9F00D1912F /* storm15.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E30924BC3E9F00D1912F /* storm15.jpeg */; };
+		1805E31A24BC3E9F00D1912F /* storm6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E30A24BC3E9F00D1912F /* storm6.jpeg */; };
+		1805E31B24BC3E9F00D1912F /* storm7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E30B24BC3E9F00D1912F /* storm7.jpeg */; };
+		1805E31C24BC3E9F00D1912F /* storm14.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E30C24BC3E9F00D1912F /* storm14.jpeg */; };
+		1805E31D24BC3E9F00D1912F /* storm4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E30D24BC3E9F00D1912F /* storm4.jpeg */; };
+		1805E31E24BC3E9F00D1912F /* storm8.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E30E24BC3E9F00D1912F /* storm8.jpeg */; };
+		1805E31F24BC3E9F00D1912F /* storm9.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E30F24BC3E9F00D1912F /* storm9.jpeg */; };
+		1805E32024BC3E9F00D1912F /* storm5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E31024BC3E9F00D1912F /* storm5.jpeg */; };
+		1805E32124BC3E9F00D1912F /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E31124BC3E9F00D1912F /* nssl0033.jpg */; };
+		1805E32224BC3E9F00D1912F /* storm2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E31224BC3E9F00D1912F /* storm2.jpeg */; };
+		1805E32324BC3E9F00D1912F /* storm11.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E31324BC3E9F00D1912F /* storm11.jpeg */; };
+		1805E32424BC3E9F00D1912F /* storm10.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E31424BC3E9F00D1912F /* storm10.jpeg */; };
+		1805E32524BC3E9F00D1912F /* storm3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1805E31524BC3E9F00D1912F /* storm3.jpeg */; };
+		1805E32724BC529400D1912F /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1805E32624BC529400D1912F /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +66,23 @@
 		1805E2F324BC3E7300D1912F /* StormViewerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StormViewerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1805E2F724BC3E7300D1912F /* StormViewerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StormViewerUITests.swift; sourceTree = "<group>"; };
 		1805E2F924BC3E7300D1912F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1805E30624BC3E9F00D1912F /* storm13.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = storm13.jpeg; sourceTree = "<group>"; };
+		1805E30724BC3E9F00D1912F /* storm1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = storm1.jpeg; sourceTree = "<group>"; };
+		1805E30824BC3E9F00D1912F /* storm12.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = storm12.jpeg; sourceTree = "<group>"; };
+		1805E30924BC3E9F00D1912F /* storm15.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = storm15.jpeg; sourceTree = "<group>"; };
+		1805E30A24BC3E9F00D1912F /* storm6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = storm6.jpeg; sourceTree = "<group>"; };
+		1805E30B24BC3E9F00D1912F /* storm7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = storm7.jpeg; sourceTree = "<group>"; };
+		1805E30C24BC3E9F00D1912F /* storm14.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = storm14.jpeg; sourceTree = "<group>"; };
+		1805E30D24BC3E9F00D1912F /* storm4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = storm4.jpeg; sourceTree = "<group>"; };
+		1805E30E24BC3E9F00D1912F /* storm8.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = storm8.jpeg; sourceTree = "<group>"; };
+		1805E30F24BC3E9F00D1912F /* storm9.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = storm9.jpeg; sourceTree = "<group>"; };
+		1805E31024BC3E9F00D1912F /* storm5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = storm5.jpeg; sourceTree = "<group>"; };
+		1805E31124BC3E9F00D1912F /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
+		1805E31224BC3E9F00D1912F /* storm2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = storm2.jpeg; sourceTree = "<group>"; };
+		1805E31324BC3E9F00D1912F /* storm11.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = storm11.jpeg; sourceTree = "<group>"; };
+		1805E31424BC3E9F00D1912F /* storm10.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = storm10.jpeg; sourceTree = "<group>"; };
+		1805E31524BC3E9F00D1912F /* storm3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = storm3.jpeg; sourceTree = "<group>"; };
+		1805E32624BC529400D1912F /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,8 +136,10 @@
 				1805E2D524BC3E7000D1912F /* AppDelegate.swift */,
 				1805E2D724BC3E7000D1912F /* SceneDelegate.swift */,
 				1805E2D924BC3E7000D1912F /* ViewController.swift */,
+				1805E32624BC529400D1912F /* DetailViewController.swift */,
 				1805E2DB24BC3E7000D1912F /* Main.storyboard */,
 				1805E2DE24BC3E7300D1912F /* Assets.xcassets */,
+				1805E30524BC3E9F00D1912F /* content */,
 				1805E2E024BC3E7300D1912F /* LaunchScreen.storyboard */,
 				1805E2E324BC3E7300D1912F /* Info.plist */,
 			);
@@ -126,6 +162,29 @@
 				1805E2F924BC3E7300D1912F /* Info.plist */,
 			);
 			path = StormViewerUITests;
+			sourceTree = "<group>";
+		};
+		1805E30524BC3E9F00D1912F /* content */ = {
+			isa = PBXGroup;
+			children = (
+				1805E30624BC3E9F00D1912F /* storm13.jpeg */,
+				1805E30724BC3E9F00D1912F /* storm1.jpeg */,
+				1805E30824BC3E9F00D1912F /* storm12.jpeg */,
+				1805E30924BC3E9F00D1912F /* storm15.jpeg */,
+				1805E30A24BC3E9F00D1912F /* storm6.jpeg */,
+				1805E30B24BC3E9F00D1912F /* storm7.jpeg */,
+				1805E30C24BC3E9F00D1912F /* storm14.jpeg */,
+				1805E30D24BC3E9F00D1912F /* storm4.jpeg */,
+				1805E30E24BC3E9F00D1912F /* storm8.jpeg */,
+				1805E30F24BC3E9F00D1912F /* storm9.jpeg */,
+				1805E31024BC3E9F00D1912F /* storm5.jpeg */,
+				1805E31124BC3E9F00D1912F /* nssl0033.jpg */,
+				1805E31224BC3E9F00D1912F /* storm2.jpeg */,
+				1805E31324BC3E9F00D1912F /* storm11.jpeg */,
+				1805E31424BC3E9F00D1912F /* storm10.jpeg */,
+				1805E31524BC3E9F00D1912F /* storm3.jpeg */,
+			);
+			path = content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,7 +291,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1805E31E24BC3E9F00D1912F /* storm8.jpeg in Resources */,
+				1805E32324BC3E9F00D1912F /* storm11.jpeg in Resources */,
+				1805E32424BC3E9F00D1912F /* storm10.jpeg in Resources */,
+				1805E31B24BC3E9F00D1912F /* storm7.jpeg in Resources */,
+				1805E31924BC3E9F00D1912F /* storm15.jpeg in Resources */,
+				1805E31C24BC3E9F00D1912F /* storm14.jpeg in Resources */,
 				1805E2E224BC3E7300D1912F /* LaunchScreen.storyboard in Resources */,
+				1805E32524BC3E9F00D1912F /* storm3.jpeg in Resources */,
+				1805E31A24BC3E9F00D1912F /* storm6.jpeg in Resources */,
+				1805E32224BC3E9F00D1912F /* storm2.jpeg in Resources */,
+				1805E31D24BC3E9F00D1912F /* storm4.jpeg in Resources */,
+				1805E32024BC3E9F00D1912F /* storm5.jpeg in Resources */,
+				1805E31724BC3E9F00D1912F /* storm1.jpeg in Resources */,
+				1805E31F24BC3E9F00D1912F /* storm9.jpeg in Resources */,
+				1805E32124BC3E9F00D1912F /* nssl0033.jpg in Resources */,
+				1805E31824BC3E9F00D1912F /* storm12.jpeg in Resources */,
+				1805E31624BC3E9F00D1912F /* storm13.jpeg in Resources */,
 				1805E2DF24BC3E7300D1912F /* Assets.xcassets in Resources */,
 				1805E2DD24BC3E7000D1912F /* Main.storyboard in Resources */,
 			);
@@ -262,6 +337,7 @@
 				1805E2DA24BC3E7000D1912F /* ViewController.swift in Sources */,
 				1805E2D624BC3E7000D1912F /* AppDelegate.swift in Sources */,
 				1805E2D824BC3E7000D1912F /* SceneDelegate.swift in Sources */,
+				1805E32724BC529400D1912F /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
